@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session Hijack GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20SessionHijack.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: SQLi
 
 
 ## Green
