@@ -32,7 +32,7 @@ Vulnerability #2: username enumeration GIF: https://github.com/FritterJacket/Wee
 
 Vulnerability #1: IDOR GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20IDOR.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20CSRF.gif
 
 
 ## Notes
