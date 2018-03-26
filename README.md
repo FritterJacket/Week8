@@ -16,21 +16,21 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijack GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20SessionHijack.gif
 
 Vulnerability #2: __________________
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20XSS.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: username enumeration GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20usernameEnumeration.gif
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR GIF: https://github.com/FritterJacket/Week8/blob/master/GIF%20of%20IDOR.gif
 
 Vulnerability #2: __________________
 
